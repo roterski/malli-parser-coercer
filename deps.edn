@@ -1,4 +1,5 @@
 {:paths ["src"]
  :deps {metosin/malli {:mvn/version "0.16.4"}
         fi.polycode/muotti {:mvn/version "1.1.0"}
-        com.hyperfiddle/rcf {:mvn/version "20220926-202227"}}}
+        io.github.matthewdowney/rich-comment-tests {:git/tag "v1.0.3"
+                                                    :git/sha "a8711e9"}}}
